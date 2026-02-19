@@ -39,6 +39,11 @@ Built a **no-code Research Operations workflow** using AI-assisted tools and str
 - **Views:** By Category | By Status | By Date (Timeline)
 - **Templates:** Pre-formatted research report structure
 
+## 🔗 Live Resources
+
+- **[View Research Hub Template](https://www.notion.so/ac9272bd23d541a19b0d2eca67cdc6bc?v=2c0d809df0ab492dbd52b5cb295304ae&source=copy_link)** — Live Notion database with sample Google research
+- Duplicate this template for your own use
+
 ### 2. AI Prompt Library
 Standardized prompts for consistent outputs:
 
@@ -107,14 +112,23 @@ Standardized prompts for consistent outputs:
 
 ## 📸 System Screenshots
 
-### Research Hub (Notion Database)
+### Research Hub Database (with Google Sample Data)
 ![Research Hub](screenshots/notion-research-hub.png)
+*Live database showing sample research entry for Google*
 
-### AI Prompt Library
-![Prompt Library](screenshots/prompt-library.png)
+### Entry Detail View
+![Entry Detail](screenshots/notion-entry-detail.png)
+*Complete research record with AI summary, sources, and status tracking*
 
-### Sample Research Output
-![Sample Report](screenshots/sample-research-report.png)
+### New Research Template
+![Template](screenshots/notion-template.png)
+*Standardized template for consistent research documentation*
+
+## 🔗 Live Template
+
+**[Access the Research Hub Template](https://www.notion.so/ac9272bd23d541a19b0d2eca67cdc6bc?v=2c0d809df0ab492dbd52b5cb295304ae&source=copy_link)**
+
+Duplicate this template to use the system yourself.
 
 ---
 
