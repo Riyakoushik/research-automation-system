@@ -7,6 +7,7 @@ This section documents the standard operating procedures (SOPs) and automated wo
 | Workflow | Description | Tools Involved |
 | :--- | :--- | :--- |
 | [Research Process](workflows/research-process.md) | End-to-end lifecycle of a research request. | Notion, AI, Canva |
+| [Competitor Monitoring](workflows/competitor-monitoring.md) | Weekly automated tracking of competitor changes. | Google Alerts, Visualping, AI |
 | *(Planned)* | **Weekly Trend Digest** | Automated email summary of key industry news. | Zapier, Feedly, Gmail |
 | *(Planned)* | **Competitor Alert** | Real-time notification of competitor website changes. | Visualping, Slack |
 

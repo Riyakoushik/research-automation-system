@@ -141,8 +141,8 @@ Duplicate this template to use the system yourself.
 ## 📞 Contact
 
 **Thalari Koushik**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
+📧 tkjs.koushik@gmail.com  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/tkoushik)  
 📍 Allagadda, Andhra Pradesh | Bengaluru
 
 ---
