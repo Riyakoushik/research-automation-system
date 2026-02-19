@@ -59,7 +59,13 @@ Standardized prompts for consistent outputs:
 **Document Polish:**
 > Convert these notes into professional research format: [PASTE] Sections: Executive Summary, Key Findings, Sources, Next Steps.
 
-### 3. Output Standardization
+### 4. AI Personas & Skills
+Specialized roles used to maximize output quality:
+
+- 🦾 **[Manuel's AI (Manus AI)](skills/manuel-ai.md)**: Autonomous research agent for deep-web data harvesting.
+- 🧠 **[Claude AI](skills/claude-ai.md)**: Logic synthesis and executive report architect.
+
+### 5. Output Standardization
 - One-page executive summaries
 - Consistent formatting across all research reports
 - Source citation protocols
